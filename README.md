@@ -1,5 +1,8 @@
 # LLMTransformers
-LLM project using Roberta model for training.
+LLM project using RoBERTa model for training.
+Large language models, also known as LLMs, are very large deep learning models that are pre-trained on large amounts of data. A transformer is an ensemble of neural networks, each consisting of an encoder and a decoder with self-attention capabilities.
+
+This project uses the RoBERTa training model.
 
 ## Step 1: Creating a tokenizer
 
